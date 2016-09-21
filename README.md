@@ -1,0 +1,1 @@
+# BCT-algorithm-for-Influence-Maximization
