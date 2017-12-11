@@ -127,7 +127,7 @@ The cost file has the content as follows (every nodes has cost of 1):
 
         Seed Nodes: 1 2
 
-        Influence: 3.01
+        Total Benefit: 3.01
         Time: 0s
         Memory: 20.7422 MB
 
